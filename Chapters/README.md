@@ -2,8 +2,6 @@
 
 In the chapter folders you will find .pdf files of the slides that I use to address questions that have come up on the discussion forum, that I think need a little nudge.
 
-You'll also find practice files for things like linear regression.
-
 ## For bullet point animation compile with:
 
 `pandoc qanda.md -i -t beamer -o qanda.pdf`
